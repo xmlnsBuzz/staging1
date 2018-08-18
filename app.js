@@ -1,3 +1,3 @@
-function opp(2 * (2 + 3)) {
-    (((())))
+function prn(){
+    document.write('abc');
 }
